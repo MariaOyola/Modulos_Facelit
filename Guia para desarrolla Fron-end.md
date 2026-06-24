@@ -24,12 +24,12 @@ Además, cada módulo deberá reflejar claramente el comportamiento de los difer
 | RF-2 Gestión de Ambientes       |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/2.%20Gestion_Ambientes/Gestion_Ambientes.md                  |
 | RF-3 Gestión Académica          |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/3.%20Gestion%20acadameca/Gestion_Academica.md                |
 | RF-4 Gestión de Horarios        |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/4.%20Gestion_Horario/Gestion_Horario.md                      |
-| RF-5 Reconocimiento Facial      |                                                                                                                                |
-| RF-6 Asistencias y Validaciones |                                                                                                                                |
+| RF-5 Reconocimiento Facial      |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/5.%20Reconocimiento%20Facial/Reconocimiento%20Facial.md                                                                                                                            |
+| RF-6 Asistencias y Validaciones |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/6.%20Asistencias%20y%20Validaciones/Asistencias%20y%20Validaciones.md                                                                                                                             |
 | RF-7 Reportes y Consultas       |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/7.%20Reportes_y_Consultas/Reportes_y_Consultas.md            |
 | RF-8 Notificaciones             |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/8.%20Notificaciones/Notificaciones.md                        |
-| RF-9 Perfil y Personalización   |                                                                                                                                |
-|Roles y sus Modulos   |                                                                                                                                |
+| RF-9 Perfil y Personalización   |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/9.%20%20Perfil%20y%20Personalizaci%C3%B3n/Perfil%20y%20Personalizaci%C3%B3n.md                                                                                                                            |
+|Roles y sus Modulos   |              https://github.com/MariaOyola/Modulos_Facelit/tree/main/Rol_Usuario                                                                                                                  |
 
 ---
 
