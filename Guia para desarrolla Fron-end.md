@@ -29,6 +29,7 @@ Además, cada módulo deberá reflejar claramente el comportamiento de los difer
 | RF-7 Reportes y Consultas       |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/7.%20Reportes_y_Consultas/Reportes_y_Consultas.md            |
 | RF-8 Notificaciones             |   https://github.com/MariaOyola/Modulos_Facelit/blob/main/Modulos/8.%20Notificaciones/Notificaciones.md                        |
 | RF-9 Perfil y Personalización   |                                                                                                                                |
+|Roles y sus Modulos   |                                                                                                                                |
 
 ---
 
